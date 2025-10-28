@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFwbnNpZWJlcGRxMjBjb2VsOWJscTZjOTYzbDB5MHF6a2kxNXIxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLTEFHdOu8fQc/giphy.gif" 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGprZ2VzZHBzZmpybDUydTJhNjJhNXV1eTJoa3RndTNsMng5ZW44MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OR1MUyhjJBcUmYlfev/giphy.gif" 
     width="300" 
     alt="cute capybara gif">
 </p>
