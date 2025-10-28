@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Welcome to my profile 💖</h1>
 
-<!--
-**huynhngcanh/huynhngcanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="background-color:#fff5f9; padding:20px; border-radius:20px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMyOG5uN…12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Lyd8tJk410iI/giphy.gif" 
+       width="300" 
+       alt="cute capybara gif" 
+       style="border-radius:20px; box-shadow:0px 0px 15px rgba(255,182,193,0.5);"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color:#ff69b4; font-size:16px; font-style:italic;">
+  🌷 I am enjoying the Mis311 course.🌷
+</p>
