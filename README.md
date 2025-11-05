@@ -29,11 +29,8 @@
   <li>GitHub: <a href="https://github.com/huynhngcanh">github.com/huynhngcanh</a></li>
 </ul>
 
-<h3>🎓 Education</h3>
-<ul>
-  <li><b>4th-year Student – Major in Marketing</b><br/>
 
-<h3>🛠 Skills</h3>
+<h3> Skills</h3>
 <table>
   <tr><td><b>Analytics</b></td><td>Excel, Descriptive stats, Data cleaning</td></tr>
   <tr><td><b>Marketing</b></td><td>Branding, Content planning, Social media
@@ -41,11 +38,6 @@
   <tr><td><b>Soft</b></td><td>Communication, teamwork, presentation (EN/VN)</td></tr>
 </table>
 
-
-<h3>🏅 Certificate</h3>
-<ul>
-  <li><b>IELTS 6.0</b> 
-</ul>
 
 <h3>📌 Interests</h3>
 
