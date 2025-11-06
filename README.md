@@ -9,15 +9,8 @@
 
 <p align="center"><em>🌷 I am enjoying the MIS311 course. 🌷</em></p>
 
-<h2 align="center">📄 Curriculum Vitae — Huỳnh Ngọc Ánh</h2>
 
-<p align="center">
-  🎓 <b>Marketing Student</b> | 🎨 Fashion Design background | 🍜 Food & 😴 Sleep Enthusiast
-</p>
-
-<hr/>
-
-<h3>👤 Profile</h3>
+<h3>👤 About me </h3>
 <ul>
   <li>I am a 4th-year Marketing student who enjoys learning about branding, consumer behavior, and digital marketing.</li>
   <li>I have a creative background in fashion design and an interest in applying marketing to local fashion brands in Vietnam.</li>
